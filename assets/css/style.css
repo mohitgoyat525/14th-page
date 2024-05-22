@@ -1,0 +1,48 @@
+.heading {
+    
+    display: flex;
+
+}
+
+.start {
+    font-family: Poppins;
+    font-size: 24px;
+    line-height: 36px;
+    
+    
+    color: #FFFFFF;
+}
+
+.Subs {
+
+    font-family: DM Sans;
+    font-size: 18px;
+    line-height: 28px;
+    
+    margin-left: 719px;
+    color: #FFFFFF;
+}
+
+.Features {
+    font-family: DM Sans;
+    font-size: 18px;
+    line-height: 28px;
+    margin-left: 33px;
+    color: white;
+}
+
+.btn {
+    width: 100px;
+    height: 40px;
+    gap: 0px;
+    border-radius: 100px;
+    background: #482BE7;
+    margin-left: 36px;
+
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+}
