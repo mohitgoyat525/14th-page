@@ -1,5 +1,26 @@
+*{
+        margin: 0%;
+        padding: 0%;
+        text-decoration: none;
+        box-sizing: border-box;
+        list-style: none;
+    }
+  .container {
+      max-width: 1140px;
+      padding-left: 12px;
+      padding-right: 12px;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+
+body{
+    background: #2F1893;
+}
+
+
 .heading {
-    
+    margin-top: 56px;
     display: flex;
 
 }
@@ -32,6 +53,7 @@
 }
 
 .btn {
+    border: none;
     width: 100px;
     height: 40px;
     gap: 0px;
